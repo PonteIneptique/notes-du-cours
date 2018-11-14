@@ -2,8 +2,8 @@
   <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Titre</title>
-            <author>Auteur</title>
+            <title>De finibus</title>
+            <author>Cicéron</title>
          </titleStmt>
          <publicationStmt>
             <p>Information pour la publication ou la distribution</p>
@@ -15,7 +15,7 @@
   </teiHeader>
   <text>
       <body>
-         <p>Du texte</p>
+         <p>Du texte important et en latin</p>
       </body>
   </text>
 </TEI>
